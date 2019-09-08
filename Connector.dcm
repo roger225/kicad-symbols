@@ -1104,6 +1104,18 @@ K hdmi conn
 F https://www.hdmi.org/manufacturer/specification.aspx
 $ENDCMP
 #
+$CMP IDE_PATA_Peripheral_Power
+D Disk drive connector IDE PATA, single row, 01x04, AMP MATE-N-LOK
+K ide pata atx
+F ~
+$ENDCMP
+#
+$CMP IDE_PATA_Peripheral_Power_2
+D Disk drive connector IDE PATA, single row, 01x04, AMP MATE-N-LOK
+K ide pata atx
+F ~
+$ENDCMP
+#
 $CMP IEEE1394a
 D FireWire/IEEE1394a 6-pin connector
 K connector IEEE1394a FireWire
