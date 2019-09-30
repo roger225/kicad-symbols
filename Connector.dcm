@@ -1477,7 +1477,7 @@ F https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_
 $ENDCMP
 #
 $CMP SATA_Power
-D Disk drive SATA power connector, single row, 15pin, 
+D Disk drive SATA power connector, single row, 15pin,
 K ide pata atx
 F ~
 $ENDCMP
