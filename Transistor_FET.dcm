@@ -2388,6 +2388,12 @@ K N-Channel GaN MOSFET
 F https://industrial.panasonic.com/content/data/SC/ds/ds4/PGA26E19BA_E.pdf
 $ENDCMP
 #
+$CMP PSMN1R8-40YLC
+D 100A, 40V Vds, N-Channel MOSFET, 1.8mOhm Ron, LFPAK56
+K N-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/PSMN1R8-40YLC.pdf
+$ENDCMP
+#
 $CMP PSMN5R2-60YL
 D 100A, 60V Vds, N-Channel MOSFET, 5.2mOhm Ron, LFPAK56
 K N-Channel MOSFET
