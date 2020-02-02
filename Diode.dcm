@@ -1806,6 +1806,18 @@ K diode
 F http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf
 $ENDCMP
 #
+$CMP SMBJxxxAQ
+D 600W Unidirectional Transient Voltage Suppressor, SMB
+K diode TVS voltage suppressor
+F https://www.diodes.com/assets/Datasheets/ds40740.pdf
+$ENDCMP
+#
+$CMP SMBJxxxCAQ
+D 600W Bidirectional Transient Voltage Suppressor, SMB
+K diode TVS voltage suppressor
+F https://www.diodes.com/assets/Datasheets/ds40740.pdf
+$ENDCMP
+#
 $CMP SMZxxx
 D 2000mW Zener Diode, MELF
 K zener diode
