@@ -2556,6 +2556,12 @@ K P-Channel MOSFET
 F http://www.jaolen.com/images/pdf/QM6015D.pdf
 $ENDCMP
 #
+$CMP SI2306
+D 30V Vds, 3.5A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.vishay.com/docs/70827/70827.pdf
+$ENDCMP
+#
 $CMP STB15N80K5
 D 14A Id, 800V Vds, N-Channel MOSFET, 375mOhm Ron, D2PAK
 K N-Channel MOSFET
